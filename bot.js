@@ -7,7 +7,7 @@ const bot = createBot({
   host: '10b10t.uk.to',     // BDS server IP
   port: 19132,           // Bedrock port
   username: 'jshdkkdkdkd19121',     // Display name
-  offline: false        // Skip Xbox Live auth
+  offline: true        // Skip Xbox Live auth
 })
 
 bot.on('spawn', () => {
