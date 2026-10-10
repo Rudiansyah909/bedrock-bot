@@ -1,5 +1,5 @@
 # Bedrock Bot 24/7
-Build For Anarchy Bedrock Server Like 2b2e or 2b2t.bedrock
+Build For Anarchy Bedrock Server Like 2b2e or 2b2t.be
 
 - Is This For Aternos?
 - No. This Is Build For Bedrock Anarchy Server For Promoting Your Server or spamming
