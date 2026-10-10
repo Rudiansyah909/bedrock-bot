@@ -11,5 +11,5 @@ Build For Anarchy Bedrock Server Like 2b2e or 2b2t.bedrock
   use render to make it 24/7.
 
 - # On Online Mode
-  Im Want On Online Mode!
-  You Will Need Set it to false and set the password
+  - Im Want On Online Mode!
+  - You Will Need Set it to false and set the password
