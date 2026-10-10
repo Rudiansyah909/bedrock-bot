@@ -1,4 +1,4 @@
-//  do not edit anything just edit the host, port and username
+//  do not edit anything just edit the host, port, username, and chat
 // if you use this for aternos im not really recommend to use this this is build for Anarchy bedrock server
 // if you keep using this for aternos and get ban im DO NOT responsible for this
 const { createBot, GoalBlock } = require('bedrockflayer')
