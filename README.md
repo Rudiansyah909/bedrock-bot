@@ -8,7 +8,7 @@ Build For Anarchy Bedrock Server Like 2b2e or 2b2t.bedrock
   ```bash
   npm install bedrockflayer
   ```
-  use render to make it 24/7.
+  use render or termux to make it 24/7.
 
 - # On Online Mode
   - Im Want On Online Mode!
