@@ -4,10 +4,10 @@
 const { createBot, GoalBlock } = require('bedrockflayer')
 
 const bot = createBot({
-  host: 'localhost',     // BDS server IP
+  host: '10b10t.uk.to',     // BDS server IP
   port: 19132,           // Bedrock port
   username: 'jshdkkdkdkd19121',     // Display name
-  offline: true        // Skip Xbox Live auth
+  offline: false        // Skip Xbox Live auth
 })
 
 bot.on('spawn', () => {
